@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vitromante", "Vitromante\Vitromante.csproj", "{A1042A2A-25F8-48BC-93F5-368635446C92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{18712326-F85F-4FB0-AE34-8E9608FDBC34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "CapaNegocio\CapaNegocio.csproj", "{71E543B3-B30D-49F5-9A56-F3E2698A60CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1042A2A-25F8-48BC-93F5-368635446C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1042A2A-25F8-48BC-93F5-368635446C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1042A2A-25F8-48BC-93F5-368635446C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1042A2A-25F8-48BC-93F5-368635446C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18712326-F85F-4FB0-AE34-8E9608FDBC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18712326-F85F-4FB0-AE34-8E9608FDBC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18712326-F85F-4FB0-AE34-8E9608FDBC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18712326-F85F-4FB0-AE34-8E9608FDBC34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E543B3-B30D-49F5-9A56-F3E2698A60CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E543B3-B30D-49F5-9A56-F3E2698A60CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E543B3-B30D-49F5-9A56-F3E2698A60CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E543B3-B30D-49F5-9A56-F3E2698A60CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98AFB289-B467-4FDB-B57B-52D019EB2890}
+	EndGlobalSection
+EndGlobal
